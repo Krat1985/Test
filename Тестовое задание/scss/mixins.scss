@@ -1,0 +1,43 @@
+@mixin title{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 24px;
+    margin-top: 30px;
+    color: #4b5a65;
+    line-height: 18px;
+    text-align: center;
+    font-weight: 400;
+}
+@mixin text{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 16px;
+	margin-top: 18px;
+	color: #a4a4a4;
+	text-align: center;
+	line-height: 25px;
+	font-weight: 400;
+}
+@mixin btn{
+	display:inline-block;
+	color: #fff;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 33%;
+    margin-top: 37px;
+    padding: 15px 25px;
+    background-color: #569dd1;
+    border-radius: 5px;
+    border-left: 2px solid #4285bb;
+    border-right: 2px solid #4285bb;
+    border-bottom: 2px solid #4285bb;
+    border-top: 1px solid #abd0e9;
+    font-weight: 500;
+    box-shadow: 0px -2px 0px #4285bb;
+}
+@mixin text-right{
+	margin-top: 16px;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 20px;
+	color: #888;
+}

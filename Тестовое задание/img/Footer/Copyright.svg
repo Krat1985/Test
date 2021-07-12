@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="161" height="13" viewBox="0 0 161 13">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 13px;
+        fill: #8a8a8a;
+        font-family: HelveticaNeue;
+      }
+    </style>
+  </defs>
+  <text id="Copyright" class="cls-1" x="-0.309" y="10.28">© some name at some year</text>
+</svg>
